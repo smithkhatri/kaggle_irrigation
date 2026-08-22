@@ -29,8 +29,6 @@ The dataset is heavily imbalanced (only ~3% of samples are "High" need), so clas
 | `Region` | Geographic region |
 | `Irrigation_Need` | **Target** — Low / Medium / High |
 
-The raw CSVs aren't checked into this repo (see [Setup](#setup)) — download `train.csv` and `test.csv` from the competition page and drop them in the project root.
-
 ## Approach
 
 1. **Preprocessing**
